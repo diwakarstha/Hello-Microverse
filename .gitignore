@@ -1,0 +1,6 @@
+# .gitignore
+node_modules/
+hint-report/
+package.json
+package-lock.json
+test.md
